@@ -59,7 +59,7 @@ color: #00abf0;
     justify-content: left;
 }
 
-#h1home {
+.home-content h1 {
 
 color: #ededed;
 background-color: transparent;
