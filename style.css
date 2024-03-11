@@ -26,6 +26,17 @@ header {
 
 .navbar {
 
+background-color: transparent;
+color: #ededed;
 
-    
+
+}
+
+.logo {
+    display: flex;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #ededed;
+    justify-content: left;
 }
