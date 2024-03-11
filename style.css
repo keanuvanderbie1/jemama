@@ -58,3 +58,15 @@ color: #00abf0;
     color: #ededed;
     justify-content: left;
 }
+
+#h1home {
+
+color: #00abf0;
+background-color: transparent;
+display: flex;
+align-items: center;
+justify-content: left;
+padding: 30px;
+
+
+}
